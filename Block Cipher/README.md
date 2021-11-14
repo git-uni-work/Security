@@ -5,11 +5,10 @@ Get acquainted with the use of block ciphers and their operating modes, as well 
 Assignment
 ------------------------------------------------------------------------------------
 
-1.  Download this TGA image: ( [homer-simpson.zip](https://courses.fit.cvut.cz/BI-BEZ/media/tutorials/06/homer-simpson_tga.zip))
-2.  Write a program that copies the header and **encrypts** part of the image data file using AES in ECB mode. The output file will be named `name_ecb.`.
-3.  Write a program that **decrypts the** image encrypted by the first program. The output file will be named`_dec.`
+1.  Write a program that copies the header and **encrypts** part of the image data file using AES in ECB mode. The output file will be named `name_ecb.`.
+2.  Write a program that **decrypts the** image encrypted by the first program. The output file will be named`_dec.`
     -   Compare the original image and its encrypted form and explain your findings.
-4.  Change the operating mode used for both encryption and decryption to **CBC** and create `()_cbc.` and `()_cbc_dec.`
+3.  Change the operating mode used for both encryption and decryption to **CBC** and create `()_cbc.` and `()_cbc_dec.`
     -   Compare the original image and its encrypted form and explain your findings.
 
 
