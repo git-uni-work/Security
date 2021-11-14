@@ -1,0 +1,18 @@
+HTTP/1.1 302 Found
+Server: nginx
+Date: Sat, 19 Sep 2020 23:30:35 GMT
+Content-Type: text/html; charset=iso-8859-1
+Content-Length: 301
+Connection: close
+Location: https://old.fit.cvut.cz/en/student/forms
+Strict-Transport-Security: max-age=315360000
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://old.fit.cvut.cz/en/student/forms">here</a>.</p>
+<hr>
+<address>Apache/2.4.38 (Debian) Server at fit.cvut.cz Port 80</address>
+</body></html>
