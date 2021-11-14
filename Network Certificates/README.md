@@ -73,7 +73,6 @@ servaddr.sin_family = AF_INET;
 servaddr.sin_addr.s_addr = inet_addr("111.111.111.111"); // ip address
 servaddr.sin_port = htons(443);                          // port
 
-// Pozor, nektere platformy maji jeste pole sin_len.
 
 if (connect(sockfd, (struct sockaddr *)&servaddr, sizeof(servaddr)) != 0) {
     error...
