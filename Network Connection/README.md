@@ -1,4 +1,4 @@
-# " NETWORK CERTIFICATES "
+# " NETWORK CONNECTION "
 
 -   connects to a web server (see url below)
 -   verifies the server certificate
