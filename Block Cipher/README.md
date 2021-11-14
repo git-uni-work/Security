@@ -1,8 +1,5 @@
 # " BLOCK CIPHER "
 
-Get acquainted with the use of block ciphers and their operating modes, as well as encryption of longer files
-
-Assignment
 ------------------------------------------------------------------------------------
 
 1.  Write a program that copies the header and **encrypts** part of the image data file using AES in ECB mode. The output file will be named `name_ecb.`.
