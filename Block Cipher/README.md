@@ -32,7 +32,3 @@ A detailed description of the image format is available, for example, [here](htt
 ###### Tip:
 
 Padding is enabled for block ciphers by default. Therefore, the encrypted file may be larger than the original.
-
-![img1] (homer-simpson.bmp?raw=true "Title")
-![img2] (homer-simpson_ecb.bmp?raw=true "Title")
-![img3] (homer-simpson_cbc.bmp?raw=true "Title")
